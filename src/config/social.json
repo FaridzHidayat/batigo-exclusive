@@ -1,0 +1,33 @@
+{
+  "main": [
+    {
+      "name": "Instagram",
+      "icon": "FaInstagram",
+      "link": "https://instagram.com/batigo.exclusive?igshid=MXcxNWxmemhtdDQ5aA=="
+    },
+    {
+      "name": "tiktok",
+      "icon": "FaTiktok",
+      "link": "https://www.tiktok.com/@batigo.exclusive?_t=8hEpgFm693p&_r=1"
+    }
+  ],
+  "contact": [
+    {
+      "name": "Whatsapp",
+      "icon": "FaWhatsapp",
+      "link": "https://wa.me/6281212704302"
+    },
+    {
+      "name": "tiktok",
+      "icon": "FaTiktok",
+      "link": "https://www.tiktok.com/@batigo.exclusive?_t=8hEpgFm693p&_r=1"
+    }
+  ],
+  "store": [
+    {
+      "name": "Store",
+      "icon": "FaStore",
+      "link": "https://maps.app.goo.gl/hnvqzLgejiJz2NTH8"
+    }
+  ]
+}

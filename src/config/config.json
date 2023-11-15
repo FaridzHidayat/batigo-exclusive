@@ -1,0 +1,42 @@
+{
+  "site": {
+    "title": "Batigo.exclusive",
+    "base_url": "https://nextplate.netlify.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo_batigo.png",
+    "logo_darkmode": "/images/logo_batigo.png",
+    "logo_width": "70",
+    "logo_height": "70",
+    "logo_text": "Batigo.Exclusive"
+  },
+
+  "settings": {
+    "search": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 2,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "https://github.com/zeon-studio/nextplate"
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "Batigo Exclusive",
+    "meta_image": "/images/logo_batigo.png",
+    "meta_description": "Brand Busana Muslim Berkualitas"
+  }
+}
