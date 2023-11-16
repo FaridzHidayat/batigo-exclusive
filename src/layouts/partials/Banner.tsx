@@ -54,7 +54,7 @@ const Banner = ({ data }: { data: PageData }) => {
                           className="block w-full"
                           alt="..." />    
                         <div
-                          className="absolute inset-x-[15%] bottom-5 py-5 text-center text-white md:block">
+                          className="absolute text-[8px] md:text-base inset-x-[15%] bottom-5 py-5 text-center text-white md:block">
                           <p className="mb-5">
                             Some representative placeholder content for the second slide.
                           </p>
